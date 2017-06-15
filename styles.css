@@ -1,0 +1,80 @@
+body {
+	background-color: lightgray;
+}
+
+header {
+	background-color: gray;
+	height: 100%;
+	margin-bottom: 2%;
+	margin-top: 2%;
+	padding: 1rem 0;
+	padding-left: 5rem;
+}
+
+main {
+	background-color: white;
+	margin: 0 auto;
+	width: 80%;
+	padding: 2rem 5rem;
+}
+
+main p {
+	font-size: 1.2rem;
+}
+
+article {
+	padding-bottom: 2rem
+}
+
+h1.center{
+	text-align: center;
+}
+section {
+	padding: 1rem 0;
+}
+.jobtitle {
+	text-align: center;
+	padding-top: 2rem;
+}
+img {
+	display: block;
+	margin: 0 auto;
+}
+
+figcaption.small {
+	font-size: 0.75rem;
+	text-align: center;
+}
+hr {
+    border: 0;
+    height: 1px;
+    max-width: 40%;
+    margin: 1.5rem auto;
+    background: #333;
+    background-image: linear-gradient(to right, #ccc, #333, #ccc);
+}
+
+.endtag {
+	font-size: 1.5rem;
+	padding-top: 1rem;
+}
+footer {
+	text-align: center;
+	padding: 2% 0%;
+	margin: 0 auto;
+}
+
+/*Assignment Requirements
+================================================================ */
+
+/*
+ 	- use `margin` and `padding` to space elements
+ 	- use at least one of each of the following types of selectors:
+ 		* element
+ 		* class
+ 		* id
+ 	- don't break these rules:
+ 		* avoid adding HTML elements in order to achieve a specific visual effect
+ 		* use document-level and inline styles sparingly, and only when absolutely necessary
+	- be creative!  do more than the minimum requirements listed above
+*/
