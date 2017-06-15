@@ -26,6 +26,11 @@ article {
 	padding-bottom: 2rem
 }
 
+#special {
+	font-size: 1rem;
+	font-style: italic;
+}
+
 h1.center{
 	text-align: center;
 }
@@ -41,10 +46,11 @@ img {
 	margin: 0 auto;
 }
 
-figcaption.small {
+p.small {
 	font-size: 0.75rem;
 	text-align: center;
 }
+
 hr {
     border: 0;
     height: 1px;
